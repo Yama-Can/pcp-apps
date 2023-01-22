@@ -15,7 +15,7 @@
 スタートを押して、勉強を開始します。
 停止を押すと、勉強時間を保存し、タイマーを止めます。
 ## ライセンス
-使用開発アプリ: Visual Studio Community
-使用開発環境: Xamarin
-提供元: yama_can/W-PCP
+使用開発アプリ: Visual Studio Community<br>
+使用開発環境: Xamarin<br>
+提供元: yama_can/W-PCP<br>
 連絡先: [yama.can@w-pcp.net](mailto:yama.can@w-pcp.net)
