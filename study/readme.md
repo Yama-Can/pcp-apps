@@ -7,7 +7,7 @@
 推奨バージョン Android 13
 ## インストール方法
 設定を開き、「提供元不明なアプリのインストール」を許可します。
-次に、アプリを[ダウンロード]([https://github.com/Yama-Can/pcp-apps/study/net.w_pcp.yama_can.apps.study.apk](https://github.com/Yama-Can/pcp-apps/blob/main/study/net.w_pcp.yama_can.apps.study.apk))してください。
+次に、アプリを[ダウンロード](https://github.com/Yama-Can/pcp-apps/blob/main/study/net.w_pcp.yama_can.apps.study.apk)してください。
 最後に、ダウンロードされたAPKファイルを実行してください。
 ## 使い方
 右上のメニューバーを押して、時計マークを押すことで、目標時間を設定できます。
